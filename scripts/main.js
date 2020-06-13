@@ -8,9 +8,9 @@ function randomValueFromArray(array){
 }
 
 let strangerText = 'Hey NAME, You are AWESOME. Love ya...'
-let strangerMembers = ['xyz']
+let strangerMembers = ['xyz', 'nishanth', 'santhoshi']
 let friendsText = "Hey NAME, I love you. Hope, we'll be nicer to each other upto the end."
-let friendMembers = ['abhilash', 'vamshi']
+let friendMembers = ['abhilash', 'vamshi', 'vaishnavi', 'meghana', 'bachi', 'kamakshi', 'ganesh', 'asra', 'bhagi']
 let familyText = 'Hey NAME, I Love U :)'
 let familyMembers = ['mom','dad']
 let enemyText = 'Hey NAME, Go fuck YOURSELF!!!'
