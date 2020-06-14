@@ -3,13 +3,13 @@ const randomize = document.querySelector('.randomize');
 const story = document.querySelector('.story');
 
 let strangerText = 'Hey NAME, You are AWESOME. Love ya...'
-let strangerMembers = ['xyz', 'nishanth', 'santhoshi']
+let strangerMembers = ['xyz', 'santhoshi']
 let friendsText = "Hey NAME, I love you. Hope, we'll be nicer to each other upto the end."
-let friendMembers = ['bachi', 'kamakshi', 'vaishnavi', 'meghana', 'ganesh', 'asra', 'bhagi']
+let friendMembers = ['bachi', 'kamakshi', 'vaishnavi', 'meghana', 'ganesh', 'asra', 'bhagi', 'nishanth', 'uday']
 let familyText = 'Hey NAME, I Love U :)'
 let familyMembers = ['mom','dad']
 let specialText = 'Hey NAME, Go fuck YOURSELF!!!'
-let specialMembers = ['buddy', 'abhilash', 'vamshi', 'subhash', 'naveen', 'uday']
+let specialMembers = ['buddy', 'abhilash', 'vamshi', 'subhash', 'naveen']
 
 let storyText = "Hey buddy! You shouldv'e asked Raj Vadeghar to make a statement for you. Ask him and get into this. Hope, you are having a good day :)"
 
