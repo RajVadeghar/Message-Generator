@@ -9,7 +9,7 @@ let friendMembers = ['bachi', 'kamakshi', 'vaishnavi', 'meghana', 'ganesh', 'asr
 let familyText = 'Hey NAME, I Love U :)'
 let familyMembers = ['mom','dad']
 let specialText = 'Hey NAME, Go fuck YOURSELF!!!'
-let specialMembers = ['buddy', 'abhilash', 'vamshi', 'subhash', 'naveen']
+let specialMembers = ['buddy', 'abhilash', 'vamshi', 'subhash', 'naveen', 'uday']
 
 let storyText = "Hey buddy! You shouldv'e asked Raj Vadeghar to make a statement for you. Ask him and get into this. Hope, you are having a good day :)"
 
